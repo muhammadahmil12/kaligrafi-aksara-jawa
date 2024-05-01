@@ -1,4 +1,4 @@
-Kaligrafi Aksara Jawa
+Muhammad ahmil rozaq 
 ===============
 
 Script sederhana untuk membuat "generative-art" atau kaligrafi simple, memakai aksara jawa.
